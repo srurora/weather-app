@@ -91,3 +91,11 @@ search-bar .search-box:focus{
   font-weight: 700;
   text-shadow: 3px 3px rgba(50,50,70,0.5)
 }
+.author{
+  color: white;
+  font-size: 10px;
+  font-weight: 400;
+  text-shadow: 3px 3px rgba(50,50,70,0.5);
+  text-align : center;
+  font-style: italic;
+}

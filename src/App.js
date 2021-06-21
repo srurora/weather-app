@@ -60,7 +60,9 @@ const dateBuilder = d => {
         </div>
         ):('')}
       </main>
-        
+      <div>
+      <div className='author'>Created by Srushti Sangawar</div>
+    </div>
     </div>
   );
 }
